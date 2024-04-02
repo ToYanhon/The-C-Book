@@ -1,5 +1,5 @@
 # The-C-Book 
 
-Forked from https://github.com/HongYiMU/TheAlgorithm, being maintained by Bill
+Forked from https://github.com/HongYiMU/TheAlgorithm, and maintained by Bill
 
-The name of "C" Book in which the "C" means Coding
+The name of "C Books" denotes **C**oding Books
